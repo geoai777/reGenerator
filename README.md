@@ -3,6 +3,7 @@ Automates generation of classes from .proto files for gRPC Dart (Can be used wit
 
 ## requirements
 pre installation requirements can be found [here](https://grpc.io/docs/languages/dart/quickstart/) and [here](https://protobuf.dev/getting-started/cpptutorial/#compiling-your-protocol-buffers)
+
 `/!\` WARINING! Once more, checklist:
 - [protoc](https://github.com/protocolbuffers/protobuf/releases)
 - dart plugin for protoc (when you run reGenerator it will check if there is plugin available)
